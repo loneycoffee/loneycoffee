@@ -14,8 +14,8 @@
 
 ## Languages that I want to learn
 
-#### ![Go](https://img.shields.io/static/v1?label==Language&message=Go&color=f1c40f&style=for-the-badge&logo=Go)
-#### ![Dart](https://img.shields.io/static/v1?label==Language&message=Dart&color=2980b9&style=for-the-badge&logo=Dart)
+#### ![Go](https://img.shields.io/static/v1?label=Language&message=Go&color=f1c40f&style=for-the-badge&logo=Go)
+#### ![Dart](https://img.shields.io/static/v1?label=Language&message=Dart&color=2980b9&style=for-the-badge&logo=Dart)
 
 
 ## My projects
