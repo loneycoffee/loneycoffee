@@ -27,4 +27,6 @@
 
 ## ― 😎 My Projects ―
 
-#### Nothing on Git yet because i'm too lazy.
+#### ![Bot Discord Git](https://img.shields.io/static/v1?label=Python&message=Bot%20Discord%20Projets%20Git&color=e67e22&style=for-the-badge&logo=Python&link=https://github.com/loneycoffee/Bot-Discord-Projets-Git)
+
+#### Coming soon ...
