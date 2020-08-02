@@ -21,7 +21,7 @@
 
 #### ![JetBrain](https://img.shields.io/static/v1?label=-&message=PyCharm&color=2ecc71f&style=for-the-badge&logo=jetbrains)
 #### ![Vscode](https://img.shields.io/static/v1?label=-&message=Vscode&color=3498db&style=for-the-badge&logo=Visual-Studio-Code)
-#### ![NeoVim](https://img.shields.io/static/v1?label=-&message=NeoVim&color=27ae60&style=for-the-badge&logo=NeoVim)
+#### ![Vim](https://img.shields.io/static/v1?label=-&message=Vim&color=27ae60&style=for-the-badge&logo=Vim)
 #### ![SublimeText3](https://img.shields.io/static/v1?label=-&message=SublimeText&color=e67e22&style=for-the-badge&logo=Sublime-Text)
 
 
