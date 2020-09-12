@@ -6,11 +6,11 @@
 
 ## ― 💫 What I Love Using ―
 
-#### ![Python](https://img.shields.io/static/v1?label=Language%20→%20Python&message=Intermediate%20level&color=orange&style=for-the-badge&logo=Python)
+#### ![Python](https://img.shields.io/static/v1?label=Python&message=Intermediate%20level&color=orange&style=for-the-badge&logo=Python)
 
 ## ― ⌛ What I Learned ― 
 
-#### ![JS](https://img.shields.io/static/v1?label=Language%20→%20Javascript&message=Beginner%20level&color=green&style=for-the-badge&logo=Javascript) ![HTML5](https://img.shields.io/static/v1?label=HTML5&message=Beginner%20level&color=green&style=for-the-badge&logo=html5)
+#### ![JS](https://img.shields.io/static/v1?label=Javascript&message=Beginner%20level&color=green&style=for-the-badge&logo=Javascript) ![HTML5](https://img.shields.io/static/v1?label=HTML5&message=Beginner%20level&color=green&style=for-the-badge&logo=html5)
 
 ## ― 👨‍🎓 What I'm learning ―
 
@@ -18,7 +18,7 @@
 
 ## ― 📚 What I want to learn ―
 
-#### ![Go](https://img.shields.io/static/v1?label=Language&message=Go&color=f1c40f&style=for-the-badge&logo=Go) ![Dart](https://img.shields.io/static/v1?label=Language&message=Dart&color=2980b9&style=for-the-badge&logo=Dart) ![C#](https://img.shields.io/static/v1?label=Language&message=CSharp&color=189f20&style=for-the-badge&logo=C-Sharp)
+#### ![Go](https://img.shields.io/static/v1?label=-&message=Go&color=f1c40f&style=for-the-badge&logo=Go) ![Dart](https://img.shields.io/static/v1?label=-&message=Dart&color=2980b9&style=for-the-badge&logo=Dart) ![C#](https://img.shields.io/static/v1?label=-&message=CSharp&color=189f20&style=for-the-badge&logo=C-Sharp)
 
 ## ― 📦 Softwares that I'm using ―
 
