@@ -14,7 +14,7 @@
 
 ## ― 👨‍🎓 What I'm learning ―
 
-#### ![C](https://img.shields.io/static/v1?label=Language%20→%20C&message=Beginner%20level&color=green&style=for-the-badge&logo=C)
+#### ![C](https://img.shields.io/static/v1?label=-&message=Beginner%20level&color=green&style=for-the-badge&logo=C)
 
 ## ― 📚 What I want to learn ―
 
