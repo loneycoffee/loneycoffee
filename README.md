@@ -14,11 +14,11 @@
 
 ## ― 👨‍🎓 What I'm learning ―
 
-#### ![C](https://img.shields.io/static/v1?label=-&message=Beginner%20level&color=green&style=for-the-badge&logo=C)
+#### ![C](https://img.shields.io/static/v1?label=-&message=Beginner%20level&color=green&style=for-the-badge&logo=C) ![C#](https://img.shields.io/static/v1?label=-&message=Beginner%20level&color=green&style=for-the-badge&logo=C-Sharp)
 
 ## ― 📚 What I want to learn ―
 
-#### ![Go](https://img.shields.io/static/v1?label=-&message=Go&color=f1c40f&style=for-the-badge&logo=Go) ![Dart](https://img.shields.io/static/v1?label=-&message=Dart&color=2980b9&style=for-the-badge&logo=Dart) ![C#](https://img.shields.io/static/v1?label=-&message=CSharp&color=189f20&style=for-the-badge&logo=C-Sharp)
+#### ![Go](https://img.shields.io/static/v1?label=-&message=Go&color=f1c40f&style=for-the-badge&logo=Go) ![Dart](https://img.shields.io/static/v1?label=-&message=Dart&color=2980b9&style=for-the-badge&logo=Dart) 
 
 ## ― 📦 Softwares that I'm using ―
 
