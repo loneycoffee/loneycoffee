@@ -1,8 +1,8 @@
 ![Header](https://i.imgur.com/XjBNKiY.gif)
 # ― Welcome 👋 ―
 
-#### 🖥 ❯ Hi I'm Loney, a 19-year-old student who loves coding stuff.
-#### 📊 ❯ I want to become a Data Scientist ^^.
+#### 🖥 ❯ Hi I'm Loney, a 20-year-old student who loves coding stuff.
+#### 📊 ❯ I want to become a Machine Learning Engineer ^^.
 
 ## ― 💫 What I Love Using ―
 
