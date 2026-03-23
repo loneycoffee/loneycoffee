@@ -1,32 +1,53 @@
-![Header](https://i.imgur.com/XjBNKiY.gif)
-# ― Welcome 👋 ―
+# Hey, I'm Théo 👋
 
-#### 🖥 ❯ Hi I'm Loney, a 20-year-old student who loves coding stuff.
-#### 📊 ❯ I want to become a Machine Learning Engineer ^^.
+**DevOps Engineer** with a Full Stack background, currently apprentice at **EDF** and studying at **Polytech Nantes** (MSc in Computing Science, AI & Data Engineering).
 
-## ― 💫 What I Love Using ―
+Passionate about **Generative AI**, cloud infrastructure, and building things that actually work.
+Seeking a **V.I.E position in Spain or LATAM** starting Q1 2027.
 
-#### ![Python](https://img.shields.io/static/v1?label=Python&message=Intermediate%20level&color=orange&style=for-the-badge&logo=Python)
+---
 
-## ― ⌛ What I Learned ― 
+## 🛠️ Tech Stack
 
-#### ![JS](https://img.shields.io/static/v1?label=Javascript&message=Beginner%20level&color=green&style=for-the-badge&logo=Javascript) ![HTML5](https://img.shields.io/static/v1?label=HTML5&message=Beginner%20level&color=green&style=for-the-badge&logo=html5)
+**Languages**
 
-## ― 👨‍🎓 What I'm learning ―
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-#### ![C](https://img.shields.io/static/v1?label=-&message=Beginner%20level&color=green&style=for-the-badge&logo=C) ![C#](https://img.shields.io/static/v1?label=-&message=Beginner%20level&color=green&style=for-the-badge&logo=C-Sharp)
+**Frameworks**
 
-## ― 📚 What I want to learn ―
+![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-#### ![Go](https://img.shields.io/static/v1?label=-&message=Go&color=f1c40f&style=for-the-badge&logo=Go) ![Dart](https://img.shields.io/static/v1?label=-&message=Dart&color=2980b9&style=for-the-badge&logo=Dart) 
+**Cloud & Infrastructure**
 
-## ― 📦 Softwares that I'm using ―
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-#### ![JetBrain](https://img.shields.io/static/v1?label=-&message=PyCharm&color=2ecc71f&style=for-the-badge&logo=jetbrains) ![Vscode](https://img.shields.io/static/v1?label=-&message=Vscode&color=3498db&style=for-the-badge&logo=Visual-Studio-Code) ![Vim](https://img.shields.io/static/v1?label=-&message=Vim&color=27ae60&style=for-the-badge&logo=Vim) ![SublimeText3](https://img.shields.io/static/v1?label=-&message=SublimeText&color=e67e22&style=for-the-badge&logo=Sublime-Text)
+**AI**
 
+![Generative AI](https://img.shields.io/badge/Generative_AI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-7b5ea7?style=for-the-badge)
 
-## ― 😎 My Projects ―
+---
 
-#### ![Bot Discord Git](https://img.shields.io/static/v1?label=Python&message=Bot%20Discord%20Git&color=e67e22&style=for-the-badge&logo=Python&link=https://github.com/loneycoffee/Bot-Discord-Projets-Git)
+## 🎓 Education
 
-#### Coming soon ...
+| Degree | School | Period |
+|--------|--------|--------|
+| MSc in Computing Science, AI & Data Engineering | Polytech Nantes | 2023 – 2026 |
+| Bachelor of Engineering | Polytech Lille | 2021 – 2023 |
+
+---
+
+## 📬 Find me
+
+[![Portfolio](https://img.shields.io/badge/tomt.fr-7b5ea7?style=for-the-badge&logo=astro&logoColor=white)](https://tomt.fr)
+
+---
+
+*☕ Coffee Enthusiast · 🍳 Amateur Chef · ✈️ Traveller*
