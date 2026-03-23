@@ -51,3 +51,11 @@ Seeking a **V.I.E position in Spain or LATAM** starting Q1 2027.
 ---
 
 *☕ Coffee Enthusiast · 🍳 Amateur Chef · ✈️ Traveller*
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/loneycoffee/loneycoffee/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/loneycoffee/loneycoffee/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/loneycoffee/loneycoffee/output/github-contribution-grid-snake.svg" />
+</picture>
